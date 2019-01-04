@@ -18,7 +18,7 @@ Sample Input
 Sample Output
 8
 
-Successful completion shown in this screenshot: ![](challenge1/challenge1/success.png)
+Successful completion shown in this screenshot: (challenge1/challenge1/success.png)
 
 
 
@@ -38,4 +38,4 @@ Want to know more about Leap Year? Watch this 4 minute video HERE
 
 Note: This is not a trick problem. Edge cases do not need to be taken into consideration when creating a solution.
 
-Successful completion shown in this screenshot: ![](challenge2/challenge2/success.png)
+Successful completion shown in this screenshot: (challenge2/challenge2/success.png)
