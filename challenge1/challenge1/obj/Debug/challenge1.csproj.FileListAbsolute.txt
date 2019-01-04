@@ -1,0 +1,7 @@
+C:\Users\gyzub\codefellows\401\CodeChallengePrework\challenge1\challenge1\bin\Debug\challenge1.exe.config
+C:\Users\gyzub\codefellows\401\CodeChallengePrework\challenge1\challenge1\bin\Debug\challenge1.exe
+C:\Users\gyzub\codefellows\401\CodeChallengePrework\challenge1\challenge1\bin\Debug\challenge1.pdb
+C:\Users\gyzub\codefellows\401\CodeChallengePrework\challenge1\challenge1\obj\Debug\challenge1.csprojAssemblyReference.cache
+C:\Users\gyzub\codefellows\401\CodeChallengePrework\challenge1\challenge1\obj\Debug\challenge1.csproj.CoreCompileInputs.cache
+C:\Users\gyzub\codefellows\401\CodeChallengePrework\challenge1\challenge1\obj\Debug\challenge1.exe
+C:\Users\gyzub\codefellows\401\CodeChallengePrework\challenge1\challenge1\obj\Debug\challenge1.pdb
