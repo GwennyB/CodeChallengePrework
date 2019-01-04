@@ -18,7 +18,7 @@ Sample Input
 Sample Output
 8
 
-Successful completion shown in this screenshot: ![(challenge1/challenge1/success.png)]
+Successful completion shown in this screenshot: ![(view screenshot](challenge1/challenge1/success.PNG)
 
 
 
