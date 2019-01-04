@@ -18,7 +18,7 @@ Sample Input
 Sample Output
 8
 
-Successful completion shown in this screenshot: ![(challenge1/challenge1/success.png)]
+Successful completion shown in this screenshot: ![(view screenshot](challenge1/challenge1/success.PNG)
 
 
 
@@ -38,7 +38,7 @@ Want to know more about Leap Year? Watch this 4 minute video HERE
 
 Note: This is not a trick problem. Edge cases do not need to be taken into consideration when creating a solution.
 
-Successful completion shown in this screenshot: (challenge2/challenge2/success.png)
+Successful completion shown in this screenshot: ![(view screenshot](challenge2/challenge2/success.PNG)
 
 
 # Problem 3: Perfect Sequence
@@ -60,7 +60,7 @@ Yes
 Explanation
 1 * 3 * 2 = 6 && 1 + 3 + 2 = 6
 
-Successful completion shown in this screenshot: (challenge3/challenge3/success.png)
+Successful completion shown in this screenshot: ![(view screenshot](challenge3/challenge3/success.PNG)
 
 
 # Problem 4: Sum of Rows
@@ -90,4 +90,4 @@ GetLength() is a method you should look into
 i.e. in the array above myArray.GetLength(0) is equal to 3
 myArray.GetLength(1) is equal to 5
 
-Successful completion shown in this screenshot: (challenge4/challenge4/success.png)
+Successful completion shown in this screenshot: ![(view screenshot](challenge4/challenge4/success.PNG)
